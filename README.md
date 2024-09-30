@@ -12,3 +12,10 @@
 
 ## 4. A brief description of the steps you took to clone the repository onto your local machine.
   I opened my GitHub account and pressed the plus button and clicked clone repository and saved it in a file.
+  
+## About me 
+## My interests 
+	- i love to go fishing and playing soccer.
+## Websites I Recommend
+	-[YouTube](https://www.youtube.com/) i like using youtube to watch informational videos.
+	- [Amazon](https://www.amazon.com/) I love using amazon to do online shopping.
